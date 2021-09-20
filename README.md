@@ -83,5 +83,7 @@ Take a moment to peruse the [documentation](https://help.syncfusion.com/wpf/data
 
 Please refer this [link](https://www.syncfusion.com/wpf-ui-controls/datagrid) to know about the essential features of Syncfusion WPF DataGrid.
 
+KB article - [How to filter the wpf datagrid like in Excel?](https://www.syncfusion.com/kb/12337/how-to-filter-the-wpf-datagrid-sfdatagrid-like-in-excel)
+
 ## Requirements to run the demo
 Visual Studio 2015 and above versions
